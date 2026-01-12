@@ -31,7 +31,7 @@ Run the code:
 - Change background color to light blue
 - Run the code again
 - Change renderingOffline to true
-- Change from 60 * 1 to 60 * 5 simulation frames (1 -> 5 seconds of playback)
+- Change from 60 * 2 to 60 * 5 simulation frames (2 -> 5 seconds of playback)
 - Run the code again
 - Change tripodType and feedstockType to explore different tooltips
 

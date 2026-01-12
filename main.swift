@@ -13,12 +13,12 @@ let renderingOffline: Bool = false
 // The simulation time per frame, in picoseconds. Frames are recorded and
 // nominally played back at 60 FPS.
 let frameSimulationTime: Double = 0.25 / 60
-let simulationFrameCount: Int = 60 * 1 // 5 seconds for final render
+let simulationFrameCount: Int = 60 * 2 // 5 seconds for final render
 let gifFrameSkipRate: Int = 1
 
 // separate top-level constant for gifFrameCount
-let freezeTimestamp: Float = 0.5
-let gifFrameCount = 30 + simulationFrameCount + 0
+let freezeTimestamp: Float = 1.0
+let gifFrameCount = 60 + simulationFrameCount + 0
 
 // WARNING: Change the label between every video.
 let tripodType: TripodType = .azatrane(.tin)
