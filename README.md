@@ -6,7 +6,7 @@ Gone are the overexpensive liquid helium and cryo temperature. They're no longer
 
 ## Videos
 
-TODO: Finite temperature molecular dynamics of mechanosynthesis tooltips
+[Finite temperature molecular dynamics of mechanosynthesis tooltips](https://www.youtube.com/watch?v=QEoh0x8ro_M)
 
 [Molecular Renderer: Tutorial Video](https://www.youtube.com/watch?v=2-quQxlQWmY)
 
