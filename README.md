@@ -26,6 +26,7 @@ Set up Molecular Renderer:
 
 Run the code:
 - (macOS) Expand the Terminal window from 80 to 120 characters per line
+- If monitor is 1080p instead of 4K, search for (1080, 1920) in code and replace with (540, 960)
 - Run the code with the default settings
 - Change background color to light blue
 - Run the code again
